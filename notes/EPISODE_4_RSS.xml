@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+  <channel>
+    <title>The Office 360 Unfiltered</title>
+    <link>https://the-office360.com</link>
+    <description>The no-BS podcast on bespoke web architecture, 3-click discoverability, CRM automation, and senior studio engineering.</description>
+    <language>en-us</language>
+    <itunes:author>The Office 360</itunes:author>
+    <item>
+      <title>Episode 4: Faith, Schools &amp; Publishing: Accessibility Done Right (sponsored by Klear)</title>
+      <description>Alex and Morgan go live on church, school, and publisher sites that look pretty and work like locked doors. Sponsored by Klear — clear whey protein isolate. Exclusive 20% off with code MARKETPL at https://klearprotein.com/discount/MARKETPL — we earn a commission when you use our code. Studio: STUDIO50 at https://the-office360.com</description>
+      <guid isPermaLink="false">office360-unfiltered-ep4</guid>
+      <itunes:duration>4:12</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <link>https://klearprotein.com/discount/MARKETPL</link>
+    </item>
+  </channel>
+</rss>

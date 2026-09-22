@@ -1,0 +1,48 @@
+# The Office 360 Unfiltered — Episode 8 Transcript
+
+**Title:** 20 Downloads Worldwide: The Founding Circle, Story Time & Your Shout-Out (Sponsored by Klear)
+**Duration:** 05:07
+**Hosts:** Alex & Morgan
+**Sponsor:** Klear Juicy Protein
+
+## Transcript
+
+**[00:01] Alex**
+
+Wooo we are live, and I am not going to pretend we just sold out Madison Square Garden. Welcome back to The Office 360 Unfiltered. I am Alex. We hit twenty downloads. Twenty. All over the world. And on this show we tell the truth, so here it is. Twenty humans actually pressed play. That is not nothing. That is a founding circle. Today the episode is for you, and I am grinning like it is a world tour in twenty living rooms.
+
+**[00:33] Morgan**
+
+Ha, he is treating twenty like a stadium and I am here for it. I'm Morgan. Twenty downloads means twenty rooms. Maybe Lisbon. Maybe New York. Maybe Lagos. Maybe a church office with the calendar still broken. Maybe an author who is done with the retainer. You found us. You stayed. That is how a four person studio builds an audience. Not with a fake million. With you. Thank you. We see you.
+
+**[01:03] Alex**
+
+If you want this thing to live, here is the unsexy ask, and I will say it with joy. Listen. Download. Subscribe. Follow wherever you get the show. The algorithm is a snob. It does not care that we are funny. It cares that you hit download, that you subscribe so the next episode is waiting, that you do not stream us once and vanish. Be one of the twenty who brought a friend. That is the whole growth plan. No billboard. You.
+
+**[01:34] Morgan**
+
+New segment, and this is the fun one. Story Time with The Office. You email us a story. The bad invoice. The site that buried Sunday service under four menus. The contact form that emailed a ghost. The win, even. The rebuild that finally worked. We will read it, we will talk it, we will put it on the next segment. Keep your name if you want credit. Strip it if you want cover. Send it to theofficetechies@gmail.com. Subject line: Story Time. We got you.
+
+**[02:07] Alex**
+
+And shout-outs. You have an event? Book launch. School open house. Church conference. Publisher fair. Product drop. A Friday night thing in your city. You email us, we say it on the air. We got you covered. This is a live show with twenty citizens of the world and we can still make a room feel big. Hit theofficetechies@gmail.com. Subject: Shout Out. Tell us the what, the when, the where, and who should show up. We will say it like we mean it.
+
+**[02:35] Morgan**
+
+If you want to advertise on this show, that door is open too. We are not going to pretend we have a Super Bowl slot. We have a founding audience that actually listens, and we talk like humans. Brands, studios, schools, authors, if you want a promotion on The Office 360 Unfiltered, email theofficetechies@gmail.com. Subject: Advertise. We will talk like people, not like a media kit that lies about numbers. Hit us up. Let's make something that does not sound like a hostage ad.
+
+**[03:07] Alex**
+
+This episode is still sponsored by Klear, Klear with a K, because the founding twenty deserve the truth in the shaker too. Clear whey, drinks like juice. Twenty grams of protein, zero sugar, zero lactose. We earn a commission if you use our code. That is how a twenty-download show stays on the air without selling you a hallway. Strawberry watermelon. Wild blue raspberry. One scoop, twelve ounces of water, shake, settle, go.
+
+**[03:34] Morgan**
+
+Code MARKETPL. Twenty percent off. klearprotein.com/discount/MARKETPL. Use that link. And if you need a site, theoffice360.com, code STUDIO50. But hear me. Today is not a pitch first. Today is thank you first. Listen. Download. Subscribe. Email us a story, an event, an ad. theofficetechies@gmail.com. We actually read it.
+
+**[04:10] Alex**
+
+I mean it. Twenty downloads all over the world is a small number with a loud heart. We are four people between Lisbon and New York. You found the unfiltered version. Subscribe so we can do Story Time next week with your name in the room. Download so the next person gets handed this show. Tell one human. That is how twenty becomes forty becomes a crowd that still feels like a room. We will not fake a million. We will earn the twenty-first.
+
+**[04:41] Morgan**
+
+Thank you, founding twenty. Email us. Story Time. Shout Out. Advertise. theofficetechies@gmail.com. Listen, download, subscribe, wherever this found you. I'm Morgan, he's Alex, this was The Office 360 Unfiltered, sponsored in part by Klear. We love you. We got you covered. Bye!

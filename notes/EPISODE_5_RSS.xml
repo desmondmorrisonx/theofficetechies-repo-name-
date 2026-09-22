@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0">
+  <channel>
+    <title>The Office 360 Unfiltered</title>
+    <link>https://the-office360.com</link>
+    <language>en-us</language>
+    <itunes:keywords>The Office 360 Unfiltered, Office 360 Lisbon New York, 4-person senior web studio, boutique web architecture, fixed scope web agency, no junior freelancers, Jamstack studio, three-click discoverability, authors schools publishers churches websites, STUDIO50, Klear protein, Klear juicy protein, clear whey protein isolate, lactose free protein, sugar free protein, strawberry watermelon protein, wild blue raspberry protein, MARKETPL, klearprotein.com, 20% off protein powder</itunes:keywords>
+    <item>
+      <title>Lisbon to New York: The Anatomy of a 4-Person Senior Studio (Sponsored by Klear)</title>
+      <description>From Lisbon to New York: How four seniors outbuild a 50-person hallway. Sponsored by Klear. 20% off code MARKETPL at https://klearprotein.com/discount/MARKETPL — we earn a commission when you use our code. Studio: STUDIO50 at https://the-office360.com</description>
+      <guid isPermaLink="false">office360-unfiltered-ep5</guid>
+      <itunes:duration>4:57</itunes:duration>
+      <itunes:keywords>The Office 360 Unfiltered, Office 360 Lisbon New York, 4-person senior web studio, boutique web architecture, fixed scope web agency, no junior freelancers, Jamstack studio, three-click discoverability, authors schools publishers churches websites, STUDIO50, Klear protein, Klear juicy protein, clear whey protein isolate, lactose free protein, sugar free protein, strawberry watermelon protein, wild blue raspberry protein, MARKETPL, klearprotein.com, 20% off protein powder</itunes:keywords>
+      <link>https://klearprotein.com/discount/MARKETPL</link>
+    </item>
+  </channel>
+</rss>

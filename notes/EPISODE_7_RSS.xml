@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+  <channel>
+    <title>The Office 360 Unfiltered</title>
+    <link>https://the-office360.com</link>
+    <language>en-us</language>
+    <item>
+      <title>Episode 7: The Contact Form Graveyard &amp; The 3-Click Lead Machine (sponsored by Klear)</title>
+      <description>The contact form graveyard vs a 3-click lead machine you own. Sponsored by Klear. 20% off code MARKETPL at https://klearprotein.com/discount/MARKETPL — we earn a commission when you use our code. Studio: STUDIO50 at https://the-office360.com</description>
+      <guid isPermaLink="false">office360-unfiltered-ep7</guid>
+      <itunes:duration>4:38</itunes:duration>
+      <link>https://klearprotein.com/discount/MARKETPL</link>
+    </item>
+  </channel>
+</rss>

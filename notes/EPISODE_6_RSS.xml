@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+  <channel>
+    <title>The Office 360 Unfiltered</title>
+    <link>https://the-office360.com</link>
+    <language>en-us</language>
+    <item>
+      <title>Episode 6: You Own Every Line: Why Agencies Keep the Keys (sponsored by Klear)</title>
+      <description>Agency lock-in vs real ownership. Sponsored by Klear. 20% off code MARKETPL at https://klearprotein.com/discount/MARKETPL — we earn a commission when you use our code. Studio: STUDIO50 at https://the-office360.com</description>
+      <guid isPermaLink="false">office360-unfiltered-ep6</guid>
+      <itunes:duration>5:16</itunes:duration>
+      <link>https://klearprotein.com/discount/MARKETPL</link>
+    </item>
+  </channel>
+</rss>

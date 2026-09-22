@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+  <channel>
+    <title>The Office 360 Unfiltered</title>
+    <link>https://the-office360.com</link>
+    <description>The no-BS podcast on bespoke web architecture, 3-click discoverability, CRM automation, and senior studio engineering.</description>
+    <language>en-us</language>
+    <itunes:author>The Office 360</itunes:author>
+    <itunes:summary>Live, unfiltered conversations from a 4-person senior studio between Lisbon and New York.</itunes:summary>
+    <item>
+      <title>Episode 3: The $10k WordPress Retainer Scam &amp; The Modern Jamstack</title>
+      <description>Alex and Morgan go live on the classic agency retainer: $10k a year to click Update Plugins. They unpack the fear product, then show the Office 360 Jamstack alternative — fixed scope, full ownership, zero plugin babysitting. Promo code STUDIO50.</description>
+      <guid isPermaLink="false">office360-unfiltered-ep3</guid>
+      <itunes:duration>5:15</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <link>https://the-office360.com</link>
+    </item>
+  </channel>
+</rss>

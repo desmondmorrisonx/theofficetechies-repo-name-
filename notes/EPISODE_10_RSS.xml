@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+  <channel>
+    <title>The Office 360 Unfiltered</title>
+    <link>https://the-office360.com</link>
+    <language>en-us</language>
+    <itunes:keywords>The Office 360 Unfiltered, Story Time with The Office, podcast mailbag, event shout out, book launch shout out, church conference shout out, podcast advertising, donate to podcast, theofficetechies@gmail.com, listen download subscribe, Lisbon New York podcast, STUDIO50, the-office360.com, founding circle mailbag</itunes:keywords>
+    <item>
+      <title>Story Time Mailbag: Your Shout-Out, Your Event, Your Ad</title>
+      <description>The mailbox episode. Story Time, event shout-outs, advertise, donate — one inbox. Email theofficetechies@gmail.com with subject Donate, Shout Out, Advertise, or Story Time. No outside sponsor.</description>
+      <guid isPermaLink="false">office360-unfiltered-ep10</guid>
+      <itunes:duration>4:00</itunes:duration>
+      <itunes:keywords>The Office 360 Unfiltered, Story Time with The Office, podcast mailbag, event shout out, book launch shout out, church conference shout out, podcast advertising, donate to podcast, theofficetechies@gmail.com, listen download subscribe, Lisbon New York podcast, STUDIO50, the-office360.com, founding circle mailbag</itunes:keywords>
+      <link>https://the-office360.com</link>
+    </item>
+  </channel>
+</rss>
