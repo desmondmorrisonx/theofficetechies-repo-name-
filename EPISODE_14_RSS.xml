@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+  <channel>
+    <title>The Office 360 Unfiltered</title>
+    <item>
+      <title>Episode 14: Behind the Mic — Part 2: We Got a Listener (And Regret Nothing)</title>
+      <itunes:episode>14</itunes:episode>
+      <description>The unfiltered ask from Episode 13 worked. The show has a real 21st listener (someone's grandmother, who calls Alex "the hallway man") and its first donation: $3.50, demanding Alex buy an actual chair. A very funny replay of the "meeting to schedule a meeting" bit follows, complete with a judgmental cat casting the deciding vote.</description>
+      <itunes:duration>PENDING</itunes:duration>
+      <itunes:keywords>indie podcast comedy, listener milestone, funny podcast episode, donation story, office chair, remote team humor, Lisbon studio, New York studio, running joke podcast, meeting to schedule a meeting, story time mailbag, shout out segment, advertise on podcast</itunes:keywords>
+      <itunes:image href="episode_14_artwork.png" />
+      <!-- enclosure to be added once final hosting URL for episode_14.mp3 is known -->
+      <pubDate>PENDING</pubDate>
+    </item>
+  </channel>
+</rss>

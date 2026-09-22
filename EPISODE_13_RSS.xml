@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+  <channel>
+    <title>The Office 360 Unfiltered</title>
+    <item>
+      <title>Episode 13: Behind the Mic — The Anatomy of Unfiltered</title>
+      <itunes:episode>13</itunes:episode>
+      <description>Alex pulls back the curtain on the show itself: four senior people, two cities, no hallway, no meeting-to-schedule-a-meeting. Then he and Morgan turn to the growth episode: twenty real downloads with zero inflation, and an unfiltered ask for support. No sponsor content in this one.</description>
+      <itunes:duration>00:04:03</itunes:duration>
+      <itunes:keywords>podcast growth, independent podcast, small studio, remote team, Lisbon studio, New York studio, senior freelancers, honest podcasting, real downloads, donation support, listener-supported show, behind the scenes podcast, story time mailbag, shout out segment, advertise on podcast</itunes:keywords>
+      <itunes:image href="episode_13_artwork.png" />
+      <enclosure url="The_Office_360_Unfiltered_Episode_13.mp3" length="4870124" type="audio/mpeg" />
+      <pubDate>Sun, 20 Sep 2026 00:00:00 GMT</pubDate>
+    </item>
+  </channel>
+</rss>

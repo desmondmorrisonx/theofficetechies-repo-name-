@@ -1,0 +1,10 @@
+ALEX_VOICE_MODE=real_recorded_audio
+ALEX_VOICE_ID=NONE_BY_DESIGN
+ALEX_REFERENCE_FILE=alex_real_voice.mp3
+ALEX_SYNTHESIS=disabled
+ALEX_PERFORMANCE=joyful, human, experienced live-show man
+MORGAN_VOICE_MODE=current_session_add_voice
+MORGAN_VOICE_ID=voice-00
+language=en
+morgan_gender=feminine
+morgan_use_case=entertainment

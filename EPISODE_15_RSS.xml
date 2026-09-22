@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+  <channel>
+    <title>The Office 360 Unfiltered</title>
+    <item>
+      <title>Episode 15: What The Office 360 Actually Is (Featuring: The Book That Went From Invisible to Visible)</title>
+      <itunes:episode>15</itunes:episode>
+      <description>Alex and Morgan finally explain what The Office 360 actually does: four people in Lisbon and New York helping authors and publishers whose books are good but invisible. Featuring a real, published case study — a backlist title that climbed from Amazon Grade E to C, and another from D to B, in about eight weeks.</description>
+      <itunes:duration>PENDING</itunes:duration>
+      <itunes:keywords>book marketing, author platform, book discoverability, Amazon SEO for authors, book positioning, author authority, launch strategy, backlist audit, book metadata optimization, independent authors, publisher analytics, story time mailbag</itunes:keywords>
+      <itunes:image href="episode_15_artwork.png" />
+      <!-- enclosure to be added once final hosting URL for episode_15.mp3 is known -->
+      <pubDate>PENDING</pubDate>
+    </item>
+  </channel>
+</rss>
