@@ -163,7 +163,9 @@ Morgan clips already generated (voice-00):
 
 Materials already written: `EPISODE_14_SCRIPT.md`, `ALEX_RECORDING_SCRIPT_EPISODE_14.md`, `episode_14_artwork.png`, `EPISODE_14_SHOW_NOTES.md` (draft), `EPISODE_14_RSS.xml` (draft).
 
-Still to build once Alex's takes arrive: final mix, finalized show notes/RSS, transcripts, and the final MP3/WAV.
+Still to build once Alex's takes arrive: final mix, finalized show notes/RSS, transcripts, and the final MP3/WAV. The build is now a two-command operation — see section 6a.
+
+Projected runtime once the five Alex takes land: approximately **4:40** (10 clips), based on Episode 13's measured 26.6s average Alex take against the real Morgan clip durations on disk.
 
 ### Episode 15 — "What The Office 360 Actually Is (Featuring: The Book That Went From Invisible to Visible)" — BLOCKED, waiting on real Alex takes
 
@@ -186,6 +188,8 @@ Morgan clips already generated (voice-00):
 - `/home/user/audio/episode_15_clip_12.wav`
 
 Materials already written: `EPISODE_15_SCRIPT.md`, `ALEX_RECORDING_SCRIPT_EPISODE_15.md`, `episode_15_artwork.png`, `EPISODE_15_SHOW_NOTES.md` (draft), `EPISODE_15_RSS.xml` (draft).
+
+Projected runtime once the six Alex takes land: approximately **5:59** (12 clips), comfortably clearing the deep-dive target.
 
 This is a longer, deeper, more informational episode (target 5:00–6:30) built from real research on the-office360.com — it finally explains what the studio actually does (book positioning, discoverability, author authority, launch strategy, analytics for authors/publishers) and features a real published case study (a backlist title moving from Amazon Grade E to C, another from D to B, in ~8 weeks). See section 5 for full factual detail to preserve if rewriting or extending this episode.
 
@@ -274,6 +278,29 @@ For an episode with real Alex audio:
 12. Present the MP3.
 13. Regenerate and present this entire master continuation prompt, updated for the new episode(s).
 14. Do not begin the next new episode's story until the current MP3(s) have been presented.
+
+## 6a. BUILD COMMANDS — EPISODES 14 AND 15 ARE PRE-WIRED
+
+Episode-agnostic tooling now exists. Once the real Alex takes are in `audio/`, finishing an episode is two commands:
+
+```bash
+python3 tools/mix_episode_generic.py 14
+python3 tools/build_transcripts_generic.py 14
+```
+
+`tools/mix_episode_generic.py` holds the exact Episode 13 house spec (24 kHz stereo, ~380 ms gaps, 1.85 s intro, 4.4 s outro, bed ducked 24 dB, peak 0.94) and adds light edge-silence trimming plus conservative level matching with gain clamped between 0.5x and 2.0x so Alex's human dynamics survive. It writes the master WAV, the final WAV and MP3, and the timing map.
+
+**The mixer enforces the Alex rule in code.** If any Alex take is missing it prints every missing filename and exits non-zero rather than building. Never work around this by synthesizing.
+
+`tools/build_transcripts_generic.py` reads dialogue from `EPISODE_N_SCRIPT.md` and timestamps from the mixer's timing map, so transcripts cannot drift from either the script or the audio. It emits SRT, VTT, and Markdown.
+
+To extend to Episode 16 and beyond, add the clip running order to the `EPISODES` dict in the mixer and the title to `TITLES` in the transcript builder.
+
+The whole pipeline was dry-run verified end to end in a temp directory using silent placeholders, which were deleted immediately. No placeholder or synthetic audio was ever written into the repository.
+
+`PRODUCTION_STATUS.md` at the repo root is the quick-glance state of all three episodes and the authoritative list of missing recordings.
+
+---
 
 For a new episode before Alex takes arrive:
 
